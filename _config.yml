@@ -3,16 +3,16 @@
 #
 
 # Site locale
-lang: "en"
+lang: "kr"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: 보험연구소
 
 # Short bio or description (displayed in the header)
 description: A simple, elegant and full featured Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: /assets/image/albo.jpg
 
 #
 # Flags below are optional
@@ -76,7 +76,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Pagination
 paginate: 5
