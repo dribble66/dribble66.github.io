@@ -25,9 +25,19 @@ body {
   overflow-wrap: break-word;
 }
 
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
 .highlight {
   margin-bottom: 15px;
 }
@@ -40,7 +50,12 @@ ul, ol, dl, figure,
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 1em 0 15px;
   color: #222222;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Roboto, "Droid Sans", Arimo, "Helvetica Neue", Helvetica, "Liberation Sans", Arial, Ubuntu, "DejaVu Sans", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
@@ -75,7 +90,8 @@ h6 {
   font-size: 14px;
 }
 
-small, .text_small {
+small,
+.text_small {
   font-size: 14px;
 }
 
@@ -91,7 +107,8 @@ a:hover {
   text-decoration: underline;
 }
 
-ul, ol {
+ul,
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -104,19 +121,25 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul, ul ol, ul ul, ol ol {
+ol ul,
+ul ol,
+ul ul,
+ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,
+ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
 }
 
@@ -253,7 +276,8 @@ blockquote {
 blockquote > :last-child {
   margin-bottom: 0;
 }
-blockquote i, blockquote em {
+blockquote i,
+blockquote em {
   font-style: normal;
 }
 
@@ -346,7 +370,8 @@ table + table {
 table tr:nth-child(even) {
   background-color: #efefef;
 }
-table th, table td {
+table th,
+table td {
   padding: 10px 15px;
 }
 table th {
@@ -576,6 +601,39 @@ footer .social-icon:hover {
 .copyright p {
   margin: 0;
   padding: 0;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 1;
+  /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0);
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4);
+  /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 30%;
+  /* Could be more or less, depending on screen size */
 }
 
 .message {
