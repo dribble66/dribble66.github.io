@@ -9,10 +9,10 @@ lang: "en"
 title: 보험연구소
 
 # Short bio or description (displayed in the header)
-description: 한줄소개
+description: 보험의 가치는 보상입니다
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/albo.jpg
+avatar: /assets/image/cover.jpg
 
 #
 # Flags below are optional
