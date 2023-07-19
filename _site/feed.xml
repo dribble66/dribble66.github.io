@@ -1,182 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-18T16:31:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">보험연구소</title><subtitle>한줄소개</subtitle><entry><title type="html">1억 모으기(7년)</title><link href="http://localhost:4000/content/demo/2021/07/15/hello-world/" rel="alternate" type="text/html" title="1억 모으기(7년)" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/content/demo/2021/07/15/hello-world</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/07/15/hello-world/"><![CDATA[<p>Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.<br />
-This post will demonstrate some of the more common content &amp; elements found in posts.<br />
-Feel free to delete this post when you are ready to publish your first post.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-19T14:56:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">보험연구소</title><subtitle>한줄소개</subtitle><entry><title type="html">보험 잘 가입하는 방법</title><link href="http://localhost:4000/%EC%A0%80%EC%B6%95/demo/2023/07/19/%EB%B3%B4%ED%97%98-%EC%9E%98-%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/" rel="alternate" type="text/html" title="보험 잘 가입하는 방법" /><published>2023-07-19T00:00:00+09:00</published><updated>2023-07-19T00:00:00+09:00</updated><id>http://localhost:4000/%EC%A0%80%EC%B6%95/demo/2023/07/19/%EB%B3%B4%ED%97%98%20%EC%9E%98%20%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95</id><content type="html" xml:base="http://localhost:4000/%EC%A0%80%EC%B6%95/demo/2023/07/19/%EB%B3%B4%ED%97%98-%EC%9E%98-%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/"><![CDATA[<p><br />
+✔️ <em>보험은 지출인가? 저축인가?</em></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+<p>✔️ <em>보험을 왜 가입하는가?</em></p>
 
-<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+<p>​</p>
 
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+<p><span style="display: inline;   box-shadow: inset 0 -10px 0 #D9FCDB;">보험은 저축이 아닌 <strong>‘지출’</strong>이다.</span></p>
 
-<p>&lt;!–more–</p>
+<p>​</p>
 
-<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<p>보험은 내가 심도 있는 질병이나 상해로 인해 경제활동을 못 할 때</p>
 
-<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+<p>보상금으로 경제 활동을 하기 위해 보험을 가입하는 것이다</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+<p>​</p>
 
-<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+<p>보험의 필요성은,</p>
 
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+<p>‘나’또는 ‘내 가족’이 저축해놓은 돈을 병원비로 지출하지 않게 위함이고,</p>
 
-<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+<p>남에게 피해를 끼쳐 손해배상을 해야 할 비용을</p>
 
-<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+<p>보험으로 처리하는 것이다.
+​</p>
 
-<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<p>보험사도 많고 보험의 종류 또한 많다.</p>
 
-<blockquote>
-  <p>This quote will <em>change</em> your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
-</blockquote>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
-
-<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
-
-<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h6 id="small-yet-significant-sub-heading--h6">Small yet significant sub-heading  (h6)</h6>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h3 id="highlight-the-code-please">Highlight the code please!!</h3>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="kt">float</span> <span class="nf">Q_rsqrt</span><span class="p">(</span> <span class="kt">float</span> <span class="n">number</span> <span class="p">)</span>
-<span class="p">{</span>
-	<span class="kt">long</span> <span class="n">i</span><span class="p">;</span>
-	<span class="kt">float</span> <span class="n">x2</span><span class="p">,</span> <span class="n">y</span><span class="p">;</span>
-	<span class="k">const</span> <span class="kt">float</span> <span class="n">threehalfs</span> <span class="o">=</span> <span class="mi">1</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-
-	<span class="n">x2</span> <span class="o">=</span> <span class="n">number</span> <span class="o">*</span> <span class="mi">0</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">number</span><span class="p">;</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">long</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">y</span><span class="p">;</span>                       <span class="c1">// evil floating point bit level hacking</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="mh">0x5f3759df</span> <span class="o">-</span> <span class="p">(</span> <span class="n">i</span> <span class="o">&gt;&gt;</span> <span class="mi">1</span> <span class="p">);</span>               <span class="c1">// what the fuck? </span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">float</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">i</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">y</span> <span class="o">*</span> <span class="p">(</span> <span class="n">threehalfs</span> <span class="o">-</span> <span class="p">(</span> <span class="n">x2</span> <span class="o">*</span> <span class="n">y</span> <span class="o">*</span> <span class="n">y</span> <span class="p">)</span> <span class="p">);</span>   <span class="c1">// 1st iteration</span>
-<span class="c1">//	y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed</span>
-
-	<span class="k">return</span> <span class="n">y</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
-
-<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<ul>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
-</ul>
-
-<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<p><span style="display: inline;   box-shadow: inset 0 -10px 0 #D9FCDB;">
+그럼 보험을 어떻게 하면 잘 가입하는 걸까?
+</span></p>
 
 <ol>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
+  <li>
+    <p>보험 특약을 정확히 이해해야 된다.</p>
+  </li>
+  <li>
+    <p>정말 필요한 특약만 가입해야 된다.</p>
+  </li>
+  <li>
+    <p>제대로 된 전문가가 보험을 관리해야 한다.</p>
+  </li>
 </ol>
 
-<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+<p><br /></p>
 
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<h4 id="질문-1">질문 1)</h4>
 
-<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<p>상해 후유장해를 얘기해보겠다. 상해 후유장해는 대부분 보험사의 주계약이기 때문에</p>
 
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+<p>종합 보험을 가지고 있는 사람이라면 필수로 가입한 특약이다.</p>
 
-<h3 id="tables">Tables</h3>
+<p>​</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-  </tbody>
-</table>
+<p>그런데, 상해후유장해에 대해 아는가?</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum</td>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html"><![CDATA[Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time. This post will demonstrate some of the more common content &amp; elements found in posts. Feel free to delete this post when you are ready to publish your first post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great heading (h2) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. &lt;!–more– Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Another great heading (h2) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great subheading (h3) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Some great subheading (h3) Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Some great subheading (h3) Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. You might want a sub-subheading (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. But it’s probably overkill (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Could be a smaller sub-heading, pacman (h5) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Small yet significant sub-heading (h6) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Highlight the code please!! float Q_rsqrt( float number ) { long i; float x2, y; const float threehalfs = 1.5F; x2 = number * 0.5F; y = number; i = * ( long * ) &amp;y; // evil floating point bit level hacking i = 0x5f3759df - ( i &gt;&gt; 1 ); // what the fuck? y = * ( float * ) &amp;i; y = y * ( threehalfs - ( x2 * y * y ) ); // 1st iteration // y = y * ( threehalfs - ( x2 * y * y ) ); // 2nd iteration, this can be removed return y; } Oh hai, an unordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Oh hai, an ordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Headings are cool! (h2) Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Tables Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit amet lorem ipsum dolor sit lorem ipsum dolor lorem ipsum lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur]]></summary></entry></feed>
+<p>어떻게 보상받는지는 아는가?</p>
+
+<p>​</p>
+
+<p>예로, 암 진단금으로 얘기해보겠다.</p>
+
+<p>암 진단금이라 해서 모든 암을 포함하는 게 아니다.</p>
+
+<p>그럼 내가 갑상선암,전립선암에 걸렸다면 내 보험에서 얼마를 보상받는지 아는가?</p>
+
+<p>​</p>
+
+<h4 id="질문-2">질문 2)</h4>
+
+<p>‘나에게 정말 중요한 특약이 뭔지’ 생각하고 보험 가입했는가?</p>
+
+<p>정말 중요한 특약은 질병이나 상해로 인해 가정에 문제가 생기는 부분이다.</p>
+
+<p>그럼 어떠한 특약이 가정을 방어해 주는 보험이 될까?</p>
+
+<p>​</p>
+
+<h4 id="질문-3">질문 3)</h4>
+
+<p>제대로 된 설계사가 어떤 설계사일까?</p>
+
+<p>상담을 하다 보면 가끔 ‘고객 본인이 실비보험을 청구’한다는 것에 놀란다.</p>
+
+<p>실비가 보상해 주지 않는 항목이 80가지가 넘고,</p>
+
+<p>말 한마디가 ‘몇백만 원에서 몇천만 원까지’ 보상 유무를 좌우한다.</p>
+
+<p>​</p>
+
+<blockquote>
+  <h4 id="전문가는-무엇인가">전문가는 무엇인가?</h4>
+</blockquote>
+
+<p>전문가는 ‘영업력’이 아닌</p>
+
+<p>고객에게 가입 시키는 특약을 전부 이해하고</p>
+
+<p>고객 편에서 보험사와 싸워 주는 <strong>‘걸어 다니는 약관’</strong>이라 생각한다.</p>
+
+<p>​</p>
+
+<p>생각해 보라. 난 전문가에게 관리받고 있는가?</p>
+
+<p>보험사는 이익을 추구하는 회사이다.</p>
+
+<p>하지만 제대로 알고 가입한다면 고객이 더 많은 이득을 취할 수 있는 게 보험이다.</p>
+
+<p>보험료를 많이 낸다고 보상을 더 많이 받는가? 아니다.</p>
+
+<p>보험은 한도라는 게 있다.</p>
+
+<p>암 진단금을 예시로 든다면 전 보험사 한도가 3억이다 .</p>
+
+<p>그럼 아무리 돈을 많이 내도 3억 이상은 보상이 안 된다는 것이다 .</p>
+
+<p>​</p>
+
+<p>실비는 비례 보상이다.</p>
+
+<p>그럼 실비가 3개여도 하나 가지고 있는 것과 똑같이 보상받는다는 것이다.</p>
+
+<p>​</p>
+
+<p>따라서 중요한 것은,</p>
+
+<blockquote>
+  <h3 id="최소-보험료로-최대-보상을-받을-수-있어야-된다는-것">‘최소 보험료로 최대 보상’을 받을 수 있어야 된다는 것.</h3>
+</blockquote>
+
+<p><br /></p>]]></content><author><name></name></author><category term="저축" /><category term="demo" /><summary type="html"><![CDATA[✔️ 보험은 지출인가? 저축인가? ✔️ 보험을 왜 가입하는가? ​ 보험은 저축이 아닌 ‘지출’이다. ​ 보험은 내가 심도 있는 질병이나 상해로 인해 경제활동을 못 할 때 보상금으로 경제 활동을 하기 위해 보험을 가입하는 것이다 ​ 보험의 필요성은, ‘나’또는 ‘내 가족’이 저축해놓은 돈을 병원비로 지출하지 않게 위함이고, 남에게 피해를 끼쳐 손해배상을 해야 할 비용을 보험으로 처리하는 것이다. ​ 보험사도 많고 보험의 종류 또한 많다. 그럼 보험을 어떻게 하면 잘 가입하는 걸까? 보험 특약을 정확히 이해해야 된다. 정말 필요한 특약만 가입해야 된다. 제대로 된 전문가가 보험을 관리해야 한다. 질문 1) 상해 후유장해를 얘기해보겠다. 상해 후유장해는 대부분 보험사의 주계약이기 때문에 종합 보험을 가지고 있는 사람이라면 필수로 가입한 특약이다. ​ 그런데, 상해후유장해에 대해 아는가? 어떻게 보상받는지는 아는가? ​ 예로, 암 진단금으로 얘기해보겠다. 암 진단금이라 해서 모든 암을 포함하는 게 아니다. 그럼 내가 갑상선암,전립선암에 걸렸다면 내 보험에서 얼마를 보상받는지 아는가? ​ 질문 2) ‘나에게 정말 중요한 특약이 뭔지’ 생각하고 보험 가입했는가? 정말 중요한 특약은 질병이나 상해로 인해 가정에 문제가 생기는 부분이다. 그럼 어떠한 특약이 가정을 방어해 주는 보험이 될까? ​ 질문 3) 제대로 된 설계사가 어떤 설계사일까? 상담을 하다 보면 가끔 ‘고객 본인이 실비보험을 청구’한다는 것에 놀란다. 실비가 보상해 주지 않는 항목이 80가지가 넘고, 말 한마디가 ‘몇백만 원에서 몇천만 원까지’ 보상 유무를 좌우한다. ​ 전문가는 무엇인가? 전문가는 ‘영업력’이 아닌 고객에게 가입 시키는 특약을 전부 이해하고 고객 편에서 보험사와 싸워 주는 ‘걸어 다니는 약관’이라 생각한다. ​ 생각해 보라. 난 전문가에게 관리받고 있는가? 보험사는 이익을 추구하는 회사이다. 하지만 제대로 알고 가입한다면 고객이 더 많은 이득을 취할 수 있는 게 보험이다. 보험료를 많이 낸다고 보상을 더 많이 받는가? 아니다. 보험은 한도라는 게 있다. 암 진단금을 예시로 든다면 전 보험사 한도가 3억이다 . 그럼 아무리 돈을 많이 내도 3억 이상은 보상이 안 된다는 것이다 . ​ 실비는 비례 보상이다. 그럼 실비가 3개여도 하나 가지고 있는 것과 똑같이 보상받는다는 것이다. ​ 따라서 중요한 것은, ‘최소 보험료로 최대 보상’을 받을 수 있어야 된다는 것.]]></summary></entry></feed>
