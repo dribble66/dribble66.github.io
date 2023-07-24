@@ -629,7 +629,7 @@ footer .social-icon:hover {
 /* Modal Content/Box */
 .modal-content {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: 5% auto;
   /* 15% from the top and centered */
   padding: 20px;
   border: 1px solid #888;
@@ -639,11 +639,11 @@ footer .social-icon:hover {
 
 .modal-content2 {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: 3% auto;
   /* 15% from the top and centered */
   padding: 20px;
   border: 1px solid #888;
-  width: 70%;
+  width: 45%;
   /* Could be more or less, depending on screen size */
 }
 
@@ -656,6 +656,13 @@ footer .social-icon:hover {
     width: 100%;
   }
 }
+.main_notice_pop .btn_close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
 .message {
   padding: 30px;
   margin-bottom: 30px;

@@ -674,7 +674,7 @@ footer {
 /* Modal Content/Box */
 .modal-content {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: 5% auto;
   /* 15% from the top and centered */
   padding: 20px;
   border: 1px solid #888;
@@ -684,11 +684,11 @@ footer {
 
 .modal-content2 {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: 3% auto;
   /* 15% from the top and centered */
   padding: 20px;
   border: 1px solid #888;
-  width: 70%;
+  width: 45%;
   /* Could be more or less, depending on screen size */
 }
 
@@ -700,6 +700,13 @@ footer {
   .modal-content2 {
     width: 100%;
   }
+}
+
+.main_notice_pop .btn_close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

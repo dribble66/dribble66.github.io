@@ -20,3 +20,92 @@ layout: default
   </article>
   {% endfor %} {% include pagination.html %}
 </div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <p style="text-align: center">
+      <span style="font-size: 14pt"
+        ><b><span style="font-size: 24pt">공지</span></b></span
+      >
+    </p>
+    <p style="text-align: center; line-height: 1.5">
+      <br />
+      1억 만들기 PLAN(7년)
+      <br />
+      한국은행 기준금리 <br />
+      3.5%(23.07.19기준)<br />
+      <br />
+      보험사 금리 <br />
+      10년이내 3.25% 금리 적용<br />
+      10년초과 2% 확정금리(평생) <br />
+      <br />
+      월 160만원 3년<br />
+      80만원 2년<br />
+      40만원 2년<br />
+      <br />
+      7년 후 1억 <br />
+
+      <br />
+      해택<br />
+      사망시 사망보험금 보장<br />
+      납입면제 <br />
+      *복리,비과세 <br />
+      카드납 가능<br />
+      상속, 증여 가능
+    </p>
+    <p><br /></p>
+    <div
+      style="
+        cursor: pointer;
+        background-color: #dddddd;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+      "
+      onClick="close_pop();"
+    >
+      <span class="pop_bt" style="font-size: 13pt"> 닫기 </span>
+    </div>
+  </div>
+</div>
+
+<div id="myModal2" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content2">
+    <p style="text-align: center">
+      <span style="font-size: 11pt">
+        <b><span style="font-size: 20pt">공지</span></b></span
+      >
+    </p>
+    <img src="/assets/image/save.jpg" style="width: 100%" alt="" />
+    <div
+      style="
+        cursor: pointer;
+        background-color: #dddddd;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 10px;
+      "
+      onClick="close_pop2();"
+    >
+      <span class="pop_bt" style="font-size: 13pt"> 닫기 </span>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  jQuery(document).ready(function () {
+    $("#myModal").show();
+    $("#myModal2").show();
+  });
+  //팝업 Close 기능
+  function close_pop(flag) {
+    $("#myModal").hide();
+  }
+  function close_pop2(flag) {
+    $("#myModal2").hide();
+  }
+</script>
+<!--End Modal-->
