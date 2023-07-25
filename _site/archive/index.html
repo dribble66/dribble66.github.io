@@ -50,6 +50,13 @@
     <!-- popup -->
     <script src="https://code.jquery.com/jquery-latest.js"></script>
 
+    <!-- kakao -->
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.3.0/kakao.min.js"
+  integrity="sha384-70k0rrouSYPWJt7q9rSTKpiTfX6USlMYjZUtr1Du+9o4cGvhPAWxngdtVZDdErlh" crossorigin="anonymous"></script>
+  <script>
+  Kakao.init('9600328e2ddea57ed04010340346b2a2'); // 사용하려는 앱의 JavaScript 키 입력
+</script>
   </head>
 
   <body>
@@ -85,13 +92,13 @@
 <h2>July 2023</h2>
 <ul>
     
-      <li><a href="/%ED%99%94%EC%9E%AC/demo/2023/07/19/%EC%9A%B4%EC%A0%84%EC%9E%90%EB%B3%B4%ED%97%98/">운전자보험</a></li>
+      <li><a href="/%EC%9E%90%EB%8F%99%EC%B0%A8%EB%B3%B4%ED%97%98/2023/07/19/%EC%9A%B4%EC%A0%84%EC%9E%90%EB%B3%B4%ED%97%98/">운전자보험</a></li>
     
-      <li><a href="/%EC%83%9D%EB%AA%85/demo/2023/07/19/%EC%95%94(%EA%B0%B1%EC%8B%A0vs%EB%B9%84%EA%B0%B1%EC%8B%A0)/">암(갱신vs비갱신)</a></li>
+      <li><a href="/%EC%83%9D%EB%AA%85%EB%B3%B4%ED%97%98/2023/07/19/%EC%95%94(%EA%B0%B1%EC%8B%A0vs%EB%B9%84%EA%B0%B1%EC%8B%A0)/">암(갱신vs비갱신)</a></li>
     
-      <li><a href="/%EC%83%9D%EB%AA%85/demo/2023/07/19/%EC%82%B0%EC%A0%95%ED%8A%B9%EB%A1%80/">산정특례</a></li>
+      <li><a href="/%EC%83%9D%EB%AA%85%EB%B3%B4%ED%97%98/2023/07/19/%EC%82%B0%EC%A0%95%ED%8A%B9%EB%A1%80/">산정특례</a></li>
     
-      <li><a href="/%EC%A0%80%EC%B6%95/demo/2023/07/19/%EB%B3%B4%ED%97%98-%EC%9E%98-%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%B3%B5%EC%82%AC%EB%B3%B8-(2)/">보험 잘 가입하는 방법</a></li>
+      <li><a href="/%EC%A0%80%EC%B6%95/2023/07/19/%EB%B3%B4%ED%97%98-%EC%9E%98-%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%B3%B5%EC%82%AC%EB%B3%B8-(2)/">보험 잘 가입하는 방법</a></li>
     
   </ul>
 
@@ -150,6 +157,47 @@
       const darkmode = new Darkmode(options);
             darkmode.showWidget();
     </script>
+
+<script>
+  function shareMessage() {
+    Kakao.Share.sendDefault({
+      objectType: 'feed',
+      content: {
+        title: '보험연구소',
+        description: '#생명보험 #손해보험 #자동차보험',
+        imageUrl:
+          'https://dribble66.github.io/assets/image/cover.jpg',
+        link: {
+          // [내 애플리케이션] > [플랫폼] 에서 등록한 사이트 도메인과 일치해야 함
+          mobileWebUrl: 'https://dribble66.github.io',
+          webUrl: 'https://dribble66.github.io',
+        },
+      },
+      // social: {
+      //   likeCount: 86,
+      //   commentCount: 12,
+      //   sharedCount: 145,
+      // },
+      buttons: [
+        {
+          title: '웹으로 보기',
+          link: {
+            mobileWebUrl: 'https://dribble66.github.io',
+            webUrl: 'https://dribble66.github.io',
+          },
+        },
+        {
+          title: '앱으로 보기',
+          link: {
+            mobileWebUrl: 'https://dribble66.github.io',
+            webUrl: 'https://dribble66.github.io',
+          },
+        },
+      ],
+    });
+  }
+</script>
+
 
   </body>
 </html>

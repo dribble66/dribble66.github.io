@@ -35,6 +35,13 @@
     <!-- popup -->
     <script src="https://code.jquery.com/jquery-latest.js"></script>
 
+    <!-- kakao -->
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.3.0/kakao.min.js"
+  integrity="sha384-70k0rrouSYPWJt7q9rSTKpiTfX6USlMYjZUtr1Du+9o4cGvhPAWxngdtVZDdErlh" crossorigin="anonymous"></script>
+  <script>
+  Kakao.init('9600328e2ddea57ed04010340346b2a2'); // 사용하려는 앱의 JavaScript 키 입력
+</script>
   </head>
 
   <body>
@@ -127,6 +134,47 @@
       const darkmode = new Darkmode(options);
             darkmode.showWidget();
     </script>
+
+<script>
+  function shareMessage() {
+    Kakao.Share.sendDefault({
+      objectType: 'feed',
+      content: {
+        title: '보험연구소',
+        description: '#생명보험 #손해보험 #자동차보험',
+        imageUrl:
+          'https://dribble66.github.io/assets/image/cover.jpg',
+        link: {
+          // [내 애플리케이션] > [플랫폼] 에서 등록한 사이트 도메인과 일치해야 함
+          mobileWebUrl: 'https://dribble66.github.io',
+          webUrl: 'https://dribble66.github.io',
+        },
+      },
+      // social: {
+      //   likeCount: 86,
+      //   commentCount: 12,
+      //   sharedCount: 145,
+      // },
+      buttons: [
+        {
+          title: '웹으로 보기',
+          link: {
+            mobileWebUrl: 'https://dribble66.github.io',
+            webUrl: 'https://dribble66.github.io',
+          },
+        },
+        {
+          title: '앱으로 보기',
+          link: {
+            mobileWebUrl: 'https://dribble66.github.io',
+            webUrl: 'https://dribble66.github.io',
+          },
+        },
+      ],
+    });
+  }
+</script>
+
 
   </body>
 </html>
